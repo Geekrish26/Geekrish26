@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Agarwal</h1>
 <h3 align="center">Turning connected data into actionable insights</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 Currently working as an " Analyst (IoT) "
+- 🔭 Currently working as an "  IoT Data Engineer "
 
 - 🌱 Passionate about **Data Science, Machine Learning, and AI-driven insights**
 
