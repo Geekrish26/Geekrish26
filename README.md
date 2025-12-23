@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **krishnaagarwal6696@gmail.com**
 
-- ⚡ Fun fact **Vibe it code it**
+- ⚡  **Vibe it code it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
