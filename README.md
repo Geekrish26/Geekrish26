@@ -6,7 +6,7 @@
 
 - 🌱 Passionate about **Data Science, Machine Learning, and AI-driven insights**
 
-- 💬 Ask me about **C++ , python , python libraries , django**
+- 💬 Ask me about **Ask me about Python, AI/ML, RAG, LLMs, LangChain & Chatbots**
 
 - 📫 How to reach me **krishnaagarwal6696@gmail.com**
 
